@@ -58,7 +58,7 @@ A low-cost, scalable waste-management platform designed to use sensor data and E
 
 **Evidence**
 
-[Repository](https://github.com/[USERNAME]/[ECOEDGE-REPO]) · [Project Demo — TODO] · [Report — TODO]
+[Repository](https://github.com/[kaushikreddy-a]/[ECOEDGE-REPO]) · [Project Demo — TODO] · [Report — TODO]
 
 ---
 
