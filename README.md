@@ -26,11 +26,8 @@
 * 🎯 Preparing for **MS programs in CS / AI / ML / Data Science in the USA**
 * 🔬 Interested in **Machine Learning, AI systems, intelligent applications, forecasting, and applied research**
 
-I am building my portfolio around three things:
 
-**Engineering → Research → Impact**
-
-My goal is to develop strong software engineering fundamentals while exploring research problems that can translate into useful real-world systems.
+The goal is to develop strong software engineering fundamentals while exploring research problems that can translate into useful real-world systems.
 
 ---
 
@@ -99,7 +96,6 @@ A web platform designed for an online pharmacy workflow, including medicine brow
 | Project                       | What it solves                                                                             | Planned technology                 |
 | ----------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------- |
 | **AI Resume Analyzer**        | Analyzes uploaded resumes, generates ATS-oriented scoring, and identifies relevant skills. | React · Node.js · Python · NLP/LLM |
-| **College Placement Tracker** | Provides student/admin dashboards and placement analytics.                                 | React · Node.js · PostgreSQL       |
 | **Expense Manager**           | Tracks personal expenses with authentication, charts, and reports.                         | React · Node.js · Database         |
 
 ### AI / ML
@@ -108,13 +104,14 @@ A web platform designed for an online pharmacy workflow, including medicine brow
 | --------------------------------- | ------------------------------------------------------------------------ | ------------------------------- |
 | **Movie Recommendation System**   | Generates personalized movie recommendations from user/item information. | Python · Pandas · scikit-learn  |
 | **Student Performance Predictor** | Uses student-related data to predict academic performance.               | Python · Pandas · scikit-learn  |
-| **Resume Ranking System**         | Compares and ranks resumes against a job description.                    | Python · NLP · Machine Learning |
+
 
 ### Advanced AI System
 
 | Project              | What it solves                                                                                         | Planned technology                                        |
 | -------------------- | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------- |
 | **AI Career Mentor** | Provides resume review, interview preparation, career-roadmap generation, and conversational guidance. | React · Node.js · PostgreSQL · LLM APIs · LangChain · RAG |
+| **VESPER** | A Personal Agent designed to assist. | |
 
 ---
 
